@@ -1,5 +1,15 @@
 /* Placeholder CSS */
 
 header ul {
+  background-color: gray;
   list-style-type: none;
+  overflow: hidden;
+}
+
+header li {
+  float: left;
+}
+
+header li a {
+  padding: 14 px;
 }
